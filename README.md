@@ -9,7 +9,6 @@ A modern **real-time chat application** with a sleek, responsive interface and c
 - 🟢 **Online/Offline Status**: See which users are currently active
 - 🎨 **Theme Switching**: Toggle between light and dark mode
 - 👤 **User Profile Management**: Update profile picture and display name
-- ⚡ **Global State Management** with **Zustand**
 - 🛠️ Robust **Error Handling** on both client and server
 - 📱 **Responsive UI** built with **TailwindCSS** and **DaisyUI**
 - 🖥️ Built with the **MERN Stack**: MongoDB, Express, React, Node.js
